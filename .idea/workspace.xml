@@ -5,24 +5,39 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ab9ea052-cb0a-45e2-9a6a-511f64eb559f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/ProjectAnanum.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hermite/deriveNumerique.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hermite/hermite.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lagrange/lagrange.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lagrange/pointEquidistant.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lagrange/tchebytchev.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Splines/cubique.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Splines/lineaire.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Splines/quadratique.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Splines/systèmeTridiagonal.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonction.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graphComparaison.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hermite.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 8
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
   <component name="ProjectId" id="2vhysPgrIPKtECh9IdBDcbhYHMV" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="false" id="Update" />
@@ -32,14 +47,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.main.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="ProjectAnanum" />
@@ -86,5 +101,16 @@
       <updated>1744611807310</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
