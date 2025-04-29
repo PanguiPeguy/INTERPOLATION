@@ -1,10 +1,11 @@
 import numpy as np
 
-# Interpolation d'Hermite
+def numerical_derivative(f, x, h=0.0001):
+    return (f(x + h) - f(x - h)) / (2 * h)
+
 def hermite_interpolation(x_points, f_values, f_derivatives, x):
     n = len(x_points) - 1
 
-    # Vérifier si x correspond à un des points d'interpolation
     for i in range(n + 1):
         if x == x_points[i]:
             return f_values[i]
@@ -24,7 +25,6 @@ def hermite_interpolation(x_points, f_values, f_derivatives, x):
 
     return p
 
-# Version vectorisée de l'interpolation d'Hermite pour plusieurs points
 def hermite_interpolation_vector(x_points, f_values, f_derivatives, x_eval):
     results = np.zeros_like(x_eval, dtype=float)
     for i, x in enumerate(x_eval):

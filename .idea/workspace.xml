@@ -5,12 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ab9ea052-cb0a-45e2-9a6a-511f64eb559f" name="Changes" comment="version complete">
-      <change afterPath="$PROJECT_DIR$/Hermite/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lagrange/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Splines/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hermite.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hermite/deriveNumerique.py" beforeDir="false" afterPath="$PROJECT_DIR$/Hermite/deriveNumerique.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hermite/hermite.py" beforeDir="false" afterPath="$PROJECT_DIR$/Hermite/hermite.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hermite/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Hermite/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lagrange/lagrange.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lagrange/lagrange.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lagrange/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lagrange/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lagrange/pointEquidistant.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lagrange/pointEquidistant.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lagrange/tchebytchev.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lagrange/tchebytchev.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Splines/cubique.py" beforeDir="false" afterPath="$PROJECT_DIR$/Splines/cubique.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Splines/lineaire.py" beforeDir="false" afterPath="$PROJECT_DIR$/Splines/lineaire.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Splines/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Splines/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Splines/quadratique.py" beforeDir="false" afterPath="$PROJECT_DIR$/Splines/quadratique.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonction.py" beforeDir="false" afterPath="$PROJECT_DIR$/fonction.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +51,7 @@
   &quot;associatedIndex&quot;: 8
 }</component>
   <component name="ProjectId" id="2vhysPgrIPKtECh9IdBDcbhYHMV" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+  <component name="ProjectLevelVcsManager">
     <OptionsSetting value="false" id="Update" />
     <ConfirmationsSetting value="2" id="Add" />
   </component>
@@ -59,11 +67,13 @@
     &quot;Python.main.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.maddyhome.idea.vim.ui.VimEmulationConfigurable&quot;
   }
 }</component>
-  <component name="RunManager" selected="Python.main (3)">
+  <component name="RunManager" selected="Python.main (2)">
     <configuration name="main (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="ProjectAnanum" />
       <option name="ENV_FILES" value="" />
@@ -154,8 +164,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.main (3)" />
         <item itemvalue="Python.main (2)" />
+        <item itemvalue="Python.main (3)" />
         <item itemvalue="Python.main (1)" />
         <item itemvalue="Python.main" />
       </list>
@@ -164,7 +174,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-4f4e415b4190-aa17d162503b-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-243.26053.29" />
+        <option value="bundled-python-sdk-348a24fa61fa-5312c7369657-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-251.23774.444" />
       </set>
     </attachedChunks>
   </component>

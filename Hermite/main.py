@@ -11,7 +11,7 @@ def main():
     # Paramètres d'interpolation
     a = -25  # Borne inférieure
     b = 25  # Borne supérieure
-    n = 10  # Nombre de points d'interpolation - 1
+    n = 200  # Nombre de points d'interpolation - 1
 
     # Points d'évaluation pour les tracés
     x_eval = np.linspace(a, b, 1000)
